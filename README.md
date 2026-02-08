@@ -1,5 +1,5 @@
 # Terminal News Feed
-A calm, terminal-native news reader for people who live in the terminal and don’t want to context-switch.
+A calm, terminal-native news reader for the Cyber Security Professional who lives in the terminal.
 
 ## Features
 
