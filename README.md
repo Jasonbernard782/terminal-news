@@ -40,5 +40,6 @@ terminal-news
 
 
 
+
 <img width="1709" height="1072" alt="Screenshot 2026-02-08 at 00 12 49" src="https://github.com/user-attachments/assets/18266e1e-9b45-4a26-8ee7-dc932ff9cf5f" />
 
